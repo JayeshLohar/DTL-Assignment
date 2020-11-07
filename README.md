@@ -3,7 +3,7 @@
 * Name : Jayesh Gadilohar 
 * MIS : 111910048
 * Div : 2
-* *atch : S4
+* Batch : S4
 
 * Assignments :
 1. IEEE Paper
